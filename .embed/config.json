@@ -1,0 +1,6 @@
+{
+	"name":"Astar Java",
+	"tags":["Visualization"],
+	"description":"Implements an astar pathfinding algorithm in Java and find paths through randomly generated mazes.",
+	"date":"December 2018"
+}
